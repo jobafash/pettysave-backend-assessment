@@ -29,7 +29,7 @@ Your task is to implement a very simple REST API that allows users to create and
 
 - Users
 
-```json
+```yaml
 {
   id: uuid
   first_name: String
@@ -45,7 +45,7 @@ Your task is to implement a very simple REST API that allows users to create and
 
 - Tasks
 
-```json
+```yaml
 {
   id: uuid
   user_id: uuid
