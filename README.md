@@ -75,7 +75,4 @@ Deadline for submission is contained in the email sent to you
 
 - Fork this repository.
 - Attempt the test using the specifications above. You are at liberty to add some features you feel might be missing—Go wild😉!
-- When you are done, send the following with subject **Backend Intern Assessment** to `desmond@pettysave.com`
-  - Send a link to the Github repo where your solution is.
-  - [Optional] Provide a link to any hosting platform where your API is deployed.
-  - [Optional] Provide a link to the API documentation.
+- When you are done, submit a pull request.
