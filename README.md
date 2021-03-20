@@ -69,10 +69,11 @@ Your task is to implement a very simple REST API that allows users to create and
 
 ### Duration
 
-Deadline for submission is contained in the email sent to you
+Deadline for submission is Friday 26th March, 2021.
 
 ## Submission
 
 - Fork this repository.
 - Attempt the test using the specifications above. You are at liberty to add some features you feel might be missing—Go wild😉!
 - When you are done, submit a pull request.
+- Good luck💪
