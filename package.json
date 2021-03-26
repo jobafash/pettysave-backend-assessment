@@ -1,0 +1,37 @@
+{
+  "name": "pettysave-test",
+  "version": "1.0.0",
+  "description": "Assessment for Pettysave Backend Intern",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/*.js --timeout 20000",
+    "server": "nodemon index",
+    "data:import": "node seeder",
+    "data:destroy": "node seeder -d",
+    "lint": "eslint pettysave-test/*"
+  },
+  "author": "jobafash",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.10.0",
+    "swagger-jsdoc": "^7.0.0-rc.6",
+    "swagger-ui-express": "^4.1.6",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7",
+    "openapi-types": "^7.2.3"
+  }
+}
