@@ -1,11 +1,11 @@
-**Applicant's full name**
+**Applicant's full name** Oluwajoba Fashogbon
 
-**Applicant's email address**
+**Applicant's email address** jobafash3@gmail.com
+ 
+**Applicant's current location** Lagos, Nigeria
 
-**Applicant's current location**
+**Link to Github Repository (your solution)** https://github.com/jobafash/pettysave-backend-assessment
 
-**Link to Github Repository (your solution)**
+**[Optional] Link to the hosted API** https://pettysave-taskapi.herokuapp.com/
 
-**[Optional] Link to the hosted API**
-
-**[Optional] Link to API Documentation**
+**[Optional] Link to API Documentation** https://documenter.getpostman.com/view/12617447/TzCJf9Nx
